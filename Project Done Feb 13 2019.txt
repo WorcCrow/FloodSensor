@@ -1,0 +1,12 @@
+Freelance Job
+
+A thesis project of a college student.
+
+
+Project design based on client specification
+
+
+A web responsive site to be access via Desktop/Mobile
+
+
+A Hardware which will be the main flood sensor (Arduino)
